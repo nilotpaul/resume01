@@ -16,7 +16,7 @@ PAGE_TITLE = "Resume | Nilotpaul Nandi"
 PAGE_ICON = ":wave:"
 NAME = "Nilotpaul Nandi"
 DESCRIPTION = """
-Idoit, bc, 3rd class coder
+Idiot, bc, 3rd class coder
 """
 EMAIL = "nilotpaul.nandi@gmail.com"
 
