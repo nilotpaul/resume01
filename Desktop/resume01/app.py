@@ -18,7 +18,7 @@ NAME = "Nilotpaul Nandi"
 DESCRIPTION = """
 Idoit, bc, 3rd class coder
 """
-EMAIL = "nilotpaul.nandi@email.com"
+EMAIL = "nilotpaul.nandi@gmail.com"
 
 
 
